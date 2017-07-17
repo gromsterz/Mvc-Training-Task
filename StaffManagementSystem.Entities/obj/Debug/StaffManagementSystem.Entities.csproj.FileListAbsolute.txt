@@ -1,0 +1,10 @@
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\bin\Debug\StaffManagementSystem.Entities.dll.config
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\bin\Debug\StaffManagementSystem.Entities.dll
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\bin\Debug\StaffManagementSystem.Entities.pdb
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\obj\Debug\StaffManagementSystem.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\obj\Debug\StaffManagementSystem.Entities.dll
+C:\Users\Asyraf\documents\visual studio 2017\Projects\Staff Management System\StaffManagementSystem.Entities\obj\Debug\StaffManagementSystem.Entities.pdb
